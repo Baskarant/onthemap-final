@@ -99,7 +99,7 @@
                                             </label>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Oq9-Pr-q2l">
                                                 <rect key="frame" x="181" y="0.0" width="55" height="30"/>
-                                                <state key="normal" title="Sing Up"/>
+                                                <state key="normal" title="Sign Up"/>
                                                 <connections>
                                                     <action selector="singUpButton_clicked:" destination="BYZ-38-t0r" eventType="touchUpInside" id="K1I-A5-5Sy"/>
                                                 </connections>
@@ -311,7 +311,7 @@
                                 <rect key="frame" x="0.0" y="28" width="320" height="70"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="eNG-RV-r6m" id="opQ-5g-qgg">
-                                    <rect key="frame" x="0.0" y="0.0" width="320" height="70"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="69"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_pin" translatesAutoresizingMaskIntoConstraints="NO" id="rC6-vc-WhV">
